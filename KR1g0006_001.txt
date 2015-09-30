@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 六經圖
-#+DATE: 2015-09-23 09:41:00
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:18:36.458740
+#+PROPERTY: ID KR1g0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1g0006_WYG_001-1a>¶
 欽定四庫全書¶
 　六經圖卷一　　　　　宋　楊　甲　撰¶
@@ -620,4 +622,3 @@
 　¶
 　¶
 　六經圗卷一¶
-

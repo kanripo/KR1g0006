@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 六經圖
-#+DATE: 2015-09-23 09:41:00
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:18:36.609882
+#+PROPERTY: ID KR1g0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1g0006_WYG_008-1a>¶
 欽定四庫全書¶
 　六經圖卷八　　　　　　宋　楊　甲　撰¶
@@ -601,4 +603,3 @@
 　¶
 　¶
 　六經圖卷八¶
-

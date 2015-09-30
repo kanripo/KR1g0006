@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 六經圖
-#+DATE: 2015-09-23 09:41:00
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:18:36.626894
+#+PROPERTY: ID KR1g0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1g0006_WYG_009-1a>¶
 欽定四庫全書¶
 　六經圖卷九　　　　　宋　楊　甲　撰¶
@@ -594,4 +596,3 @@
 　¶
 　¶
 　六經圗巻九¶
-
